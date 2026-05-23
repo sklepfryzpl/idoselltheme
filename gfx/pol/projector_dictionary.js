@@ -1,0 +1,1 @@
+app_shop.run((function(){document.querySelectorAll(".dictionary__more").forEach((e=>{e.addEventListener("click",(function(e){return e.preventDefault(),this.parentNode.parentNode.classList.toggle("--active"),!1}))}))}),"all",".dictionary__more",!0);

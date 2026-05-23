@@ -1,0 +1,1 @@
+app_shop.run((()=>{app_shop.fn.orderOpenFormValidation=new FormValidation({form:document.querySelector(".order_open__form")}),app_shop.fn.orderOpenFormValidation.init()}),"all",".order_open__form");
