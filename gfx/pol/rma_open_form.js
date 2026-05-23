@@ -1,0 +1,1 @@
+app_shop.run((()=>{app_shop.fn.rmaOpenFormValidation=new FormValidation({form:document.querySelector(".rma_open__form")}),app_shop.fn.rmaOpenFormValidation.init()}),"all",".rma_open__form");

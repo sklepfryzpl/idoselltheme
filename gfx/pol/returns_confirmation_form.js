@@ -1,0 +1,1 @@
+app_shop.run((()=>{const e=document.querySelector("a._step._step2");if(!e)return;const t=localStorage.getItem("linkToProductsCurrentReturns");t&&(e.href=t)}),"all",".step6");

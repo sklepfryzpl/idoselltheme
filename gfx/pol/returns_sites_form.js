@@ -1,0 +1,1 @@
+document.addEventListener("click",(e=>{const{target:t}=e;if(!t?.closest(".pickupl_return"))return;const c=t.closest(".pickupl_return").querySelector('input[name="stock"]');c&&(c.checked=!0)}));
