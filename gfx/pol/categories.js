@@ -1,0 +1,1 @@
+app_shop.run((function(){document.querySelectorAll("span.more_categories").forEach((e=>{e.addEventListener("click",(e=>{e.preventDefault();const{target:t}=e;t.classList.toggle("--open")}))}))}),"all","div.categories-list_wrapper");

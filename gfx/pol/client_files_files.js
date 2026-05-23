@@ -1,0 +1,1 @@
+app_shop.run((function(){document.querySelectorAll("button.n68137_files_download").forEach((e=>{e.addEventListener("click",(n=>{n.preventDefault();const l=e.parentElement.querySelector("div.n68137_popup");return!!l&&(Modal({element:l,classList:"--file"}),!1)}))}))}),"all",".n68137_downloadable");

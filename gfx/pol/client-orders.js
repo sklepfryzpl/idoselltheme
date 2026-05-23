@@ -1,0 +1,1 @@
+app_shop.run((function(){app_shop.fn.selectPaging=new SelectToDropdown({selector:".orders__portions_select:not(.f-dropdown)",afterClickDropdownCallback:o=>{o.closest("form").submit()}})}),"all",".orders__portions_select",!0);

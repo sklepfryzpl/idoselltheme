@@ -1,0 +1,1 @@
+app_shop.run((function(){const e=document.querySelector(".rebates_active__button.--change");if(!e)return;e.addEventListener("click",(e=>{e.preventDefault();const t=document.querySelector(".rebates_active__wrapper");t&&t.classList.add("--change")}))}),"all",".rebates_info");
