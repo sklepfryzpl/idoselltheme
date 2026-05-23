@@ -1,0 +1,1 @@
+app_shop.run((()=>{document.querySelectorAll(".news__date").forEach((a=>{const n=app_shop.fn.news_data({data:a.textContent,month_names:window?.iaical_shortNames,format:"<div>%d %m</div><span>%y</span>"});n&&(a.innerHTML=n)}))}),"all",".news__date");

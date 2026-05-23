@@ -1,0 +1,1 @@
+app_shop.run((()=>{document.querySelectorAll("#menu_blog_bydates > ul > li > a").forEach((e=>{e.addEventListener("click",(e=>{e.preventDefault();const l=e.target.closest("li");document.querySelectorAll("#menu_blog_bydates > ul > li").forEach((e=>{e!==l&&e.classList.remove("active")})),l.classList.toggle("active")}))}))}),"all","#menu_blog_bydates > ul > li > a");

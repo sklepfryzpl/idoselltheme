@@ -1,0 +1,1 @@
+app_shop.run((()=>{"function"==typeof app_shop.fn.addDepositInfo&&app_shop.fn.addDepositInfo(".deposit_price__value")}),"all",".deposit_price__value");

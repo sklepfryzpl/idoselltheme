@@ -1,0 +1,1 @@
+app_shop.run((function(){app_shop.fn.categoryDivider(".navigation_desc.--bottom .navigation_desc__wrapper")}),"all",".navigation_desc.--bottom");

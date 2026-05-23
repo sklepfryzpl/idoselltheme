@@ -1,0 +1,1 @@
+app_shop.run((function(){if(app_shop.vars?.addedToBasket)return!1;app_shop.fn.addedModal=new Modal({element:document.getElementById("menu_preloader_add"),classList:"--added"}),document.querySelector(".added__button.--close").addEventListener("click",(function(){return app_shop.fn.addedModal.closeModal(),!1}))}),"all","#menu_preloader_add");
