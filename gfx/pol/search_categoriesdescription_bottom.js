@@ -1,0 +1,1 @@
+app_shop.run((function(){app_shop.fn.categoryDivider(".search_description.--bottom .search_description__wrapper")}),"all",".search_description",!0);

@@ -1,0 +1,1 @@
+app_shop.run((function(){document.querySelectorAll(".subscriptions__more_products").forEach((t=>{t.addEventListener("click",(t=>{t.preventDefault();const{target:e}=t;e.closest(".subscriptions__item").classList.toggle("--show");const s=e.getAttribute("data-literal");return e.setAttribute("data-literal",e.textContent),e.textContent=s,!1}))}))}),"all",".subscriptions_list");

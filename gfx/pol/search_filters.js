@@ -1,0 +1,1 @@
+app_shop.run((()=>{const e=document.getElementById("filter_list");if(!e)return;const n=document.getElementById("menu_messages_warning");e.append(n)}),"all","#menu_messages_warning",!0);
